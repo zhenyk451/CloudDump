@@ -1,0 +1,1 @@
+Replace this with HavocC2 Payload obfuscated via Shelter in a installer .exe
